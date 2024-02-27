@@ -1,0 +1,22 @@
+{
+  "name": "yt-mp3",
+  "version": "1.0.0",
+  "description": "youtube video to mp3",
+  "main": "index.js",
+  "scripts": {
+    "dd": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwindd/yt-mp3.git"
+  },
+  "author": "iwindd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwindd/yt-mp3/issues"
+  },
+  "homepage": "https://github.com/iwindd/yt-mp3#readme",
+  "dependencies": {
+    "youtube-dl-exec": "^2.5.7"
+  }
+}
